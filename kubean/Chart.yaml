@@ -4,7 +4,7 @@ description: A Helm chart for kubean
 
 # A chart can be either an 'application' or a 'library' chart.
 #
-version: v0.0.1-26-gb607d6d0
+version: v0.0.1-25-g64af1807
 # to be deployed.
 #
 # Library charts provide useful utilities or functions for the chart developer. They're included as
@@ -12,14 +12,14 @@ version: v0.0.1-26-gb607d6d0
 # pipeline. Library charts do not define any templates and therefore cannot be deployed.
 type: application
 
-version: v0.0.1-26-gb607d6d0
-version: v0.0.1-26-gb607d6d0
+version: v0.0.1-25-g64af1807
+version: v0.0.1-25-g64af1807
 # Versions are expected to follow Semantic Versioning (https://semver.org/)
-version: v0.0.1-26-gb607d6d0
+version: v0.0.1-25-g64af1807
 
-version: v0.0.1-26-gb607d6d0
+version: v0.0.1-25-g64af1807
 # incremented each time you make changes to the application. Versions are not expected to
-version: v0.0.1-26-gb607d6d0
+version: v0.0.1-25-g64af1807
 # It is recommended to use it with quotes.
 appVersion: "0.0.1"
 
